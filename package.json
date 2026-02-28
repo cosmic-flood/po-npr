@@ -1,0 +1,27 @@
+{
+  "name": "po-npr",
+  "version": "1.0.0",
+  "description": "push only;no pull-request - agent version control for next level of AI",
+  "main": "dist/resolve-conflicts.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/resolve-conflicts.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cosmic-flood/po-npr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cosmic-flood/po-npr/issues"
+  },
+  "homepage": "https://github.com/cosmic-flood/po-npr#readme",
+  "devDependencies": {
+    "@types/node": "^25.3.2",
+    "typescript": "^5.9.3"
+  }
+}
