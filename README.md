@@ -1,2 +1,2 @@
 # po-npr
-push only;fuck git - agent version control for next level of AI
+push only;no pull request - agent version control for next level of AI
